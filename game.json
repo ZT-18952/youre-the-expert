@@ -1,0 +1,24 @@
+{
+ "version": 2,
+ "synthetic": false,
+ "clips": [
+  {
+   "id": "atp",
+   "title": "ATP",
+   "sub": "cortex in vivo",
+   "file": "clip_atp.json"
+  },
+  {
+   "id": "cortex",
+   "title": "UDP",
+   "sub": "cortex in vivo",
+   "file": "clip_cortex.json"
+  },
+  {
+   "id": "vv",
+   "title": "UDP",
+   "sub": "brain slice",
+   "file": "clip_vv.json"
+  }
+ ]
+}
